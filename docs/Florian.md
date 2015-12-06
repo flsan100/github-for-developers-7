@@ -1,8 +1,5 @@
 # Florian
 ## Sandjaja
 
-- [ ] Check!
+**Favorite Color:** Green
 
-1. Ich
-2. bin
-3. Awesome
